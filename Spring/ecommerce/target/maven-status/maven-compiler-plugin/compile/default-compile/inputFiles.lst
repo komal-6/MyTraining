@@ -1,0 +1,16 @@
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/controller/CustomerController.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/model/Category.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/controller/ProductController.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/service/CustomerService.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/repo/ProductRepo.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/model/Order.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/repo/AddressRepo.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/model/Customer.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/repo/OrderRepo.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/EcommerceApplication.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/repo/CategoryRepo.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/controller/CategoryController.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/repo/CustomerRepo.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/model/Address.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/model/Product.java
+/home/ignek/Downloads/ecommerce/src/main/java/com/ignek/ecommerce/controller/AddressController.java

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+    
+	<!-- <bean id="vehicle" class="com.ignek.springCRUD.Car"></bean> -->
+	
+	<bean name="emp1" class="com.ignek.springexample.core.collections.Emp">
+		<property name="name" value="Komal"></property>
+		<property name="phones">
+			<list>
+				<value>789564679</value>
+				<value>78597474</value>
+				<value>null</value>
+			</list>	
+		</property>
+		
+		<property name="addresses">
+			<set>
+				<value>Delhi</value>
+				<value>Kanpur</value>
+				<value>Ahmedabad</value>
+			</set>
+		</property>
+		
+		<property name="courses">
+			<map> 
+				<entry key="java" value="2 months"></entry>
+				<entry key="python" value="3 months"></entry>
+				<entry key="c" value="1.5 months"></entry>
+			</map>
+		</property>
+		
+		<property name="property">
+		    <props>
+		    	<prop key="name">Komal</prop>
+		    </props>
+		</property>
+	</bean>
+</beans>

@@ -1,0 +1,14 @@
+com/ignek/ecommerce/EcommerceApplication.class
+com/ignek/ecommerce/repo/CategoryRepo.class
+com/ignek/ecommerce/service/CustomerService.class
+com/ignek/ecommerce/controller/CustomerController.class
+com/ignek/ecommerce/controller/CategoryController.class
+com/ignek/ecommerce/model/Address.class
+com/ignek/ecommerce/controller/ProductController.class
+com/ignek/ecommerce/model/Product.class
+com/ignek/ecommerce/repo/AddressRepo.class
+com/ignek/ecommerce/controller/AddressController.class
+com/ignek/ecommerce/repo/CustomerRepo.class
+com/ignek/ecommerce/model/Category.class
+com/ignek/ecommerce/model/Customer.class
+com/ignek/ecommerce/repo/ProductRepo.class
